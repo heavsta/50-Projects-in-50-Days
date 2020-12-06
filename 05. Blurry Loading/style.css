@@ -22,7 +22,7 @@ body {
     width: calc(100vw + 60px); /* All these strange num to avoid the whity thing on the corners */
     height: calc(100vh + 60px);
     z-index: -1;
-    filter: blur(70px);
+    filter: blur(0px);
 }
 
 .loading-text {
